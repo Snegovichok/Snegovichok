@@ -1,6 +1,7 @@
-### Hi there 👋 My name is Daniel, I am a C++ developer
+### Hi there 👋 My name is Daniil, I am a C++ developer
 I has successfully completed the C++ Developer professional training course as offered 
 by the Yandex Practicum.
+
 
 Stack:
 - 🔭 I’m currently working on me projects "Artificial intelligence" + "Neural networks"
