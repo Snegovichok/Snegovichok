@@ -2,7 +2,6 @@
 I has successfully completed the C++ Developer professional training course as offered 
 by the Yandex Practicum.
 
-
 Stack:
 - 🔭 I’m currently working on me projects "Artificial intelligence" + "Neural networks"
 
