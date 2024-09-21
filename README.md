@@ -4,10 +4,6 @@ I am 25, I am a computer security expert specializing in security analysis of co
 Stack:
 - 🔭 I’m currently working on me projects "Artificial intelligence" + "Neural networks"
 
-Resume:
-- https://hh.ru/resume/9db98685ff09cd27540039ed1f67683630477a
-
-
 <!--
 **Snegovichok/Snegovichok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
