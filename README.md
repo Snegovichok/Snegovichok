@@ -1,6 +1,5 @@
 ### Hi there 👋 My name is Daniil, I am a C++ developer
-I has successfully completed the C++ Developer professional training course as offered 
-by the Yandex Practicum.
+I am 25, I am a computer security expert specializing in security analysis of computer systems. Researcher in the field of AI.
 
 Stack:
 - 🔭 I’m currently working on me projects "Artificial intelligence" + "Neural networks"
