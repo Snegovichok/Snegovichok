@@ -3,6 +3,8 @@ I'm 25 y.o., I:
 A computer security expert specializing in security analysis of computer systems.
 Researcher in the field of artificial intelligence.
 
+Level: Middle
+
 Stack:
 - 🔭 I’m currently working on me projects "Artificial intelligence" + "Neural networks"
 
