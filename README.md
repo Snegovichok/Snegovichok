@@ -6,12 +6,10 @@
 - 🎓 TSU – Computer Security (Specialization: Security Analysis of Computer Systems).
 - 📜 Yandex Practicum – Professional C++ Developer (Diploma).
 - 🔭 1C Training Center – In progress: 1C Professional Developer.
-
 <br/>
 <br/>
-
+<br/>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-
 ↘️ Completed projects:
 - ⚔️ A server for conducting cybersecurity competitions within CTF Attack-Defense.
 - 🛡️ Secure transmission of information over the Internet. (under development)
