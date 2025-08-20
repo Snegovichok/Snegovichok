@@ -10,6 +10,7 @@
 <br/>
 <br/>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+
 ↘️ Completed projects:
 - ⚔️ A server for conducting cybersecurity competitions within CTF Attack-Defense.
 - 🛡️ Secure transmission of information over the Internet. (under development)
