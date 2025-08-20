@@ -7,6 +7,11 @@
 - 📜 Yandex Practicum – Professional C++ Developer (Diploma).
 - 🔭 1C Training Center – In progress: 1C Professional Developer.
 
+<br/>
+<br/>
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+
 ↘️ Completed projects:
 - ⚔️ A server for conducting cybersecurity competitions within CTF Attack-Defense.
 - 🛡️ Secure transmission of information over the Internet. (under development)
@@ -21,8 +26,6 @@
 ↘️ Resume:
 - 📋 "https://hh.ru/resume/b1d91ca6ff0ce33cc60039ed1f4e7955307239"
 - 📋 "https://www.linkedin.com/in/snegovichok/"
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 <picture>
   <source
