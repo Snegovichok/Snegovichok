@@ -22,6 +22,8 @@
 - 📋 "https://hh.ru/resume/b1d91ca6ff0ce33cc60039ed1f4e7955307239"
 - 📋 "https://www.linkedin.com/in/snegovichok/"
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
