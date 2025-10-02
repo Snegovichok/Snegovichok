@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Daniil
-↘️ I'm 25 y.o., I:
+↘️ I'm 26 y.o., I:
 - 🔐 Computer Security Specialist | 🖥️ C++/1C/Python Developer | 🤖 AI Researcher (enthusiast) 
 
 ↘️ Education & Certifications:
