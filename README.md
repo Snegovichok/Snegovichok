@@ -5,7 +5,7 @@
 ↘️ Education & Certifications:
 - 🎓 TSU – Computer Security (Specialization: Security Analysis of Computer Systems).
 - 📜 Yandex Practicum – Professional C++ Developer (Diploma).
-- 🔭 1C Training Center – In progress: 1C Professional Developer.
+- 📜 1C Training Center – Professional 1C Developer (Diploma).
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 ↘️ Completed projects:
