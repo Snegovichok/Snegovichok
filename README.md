@@ -4,6 +4,7 @@
 
 ↘️ Education & Certifications:
 - 🎓 TSU – Computer Security (Specialization: Security Analysis of Computer Systems).
+- 🎓 MIT – Scientific researcher in the field of machine learning (at the level of the Massachusetts Institute of Technology).
 - 📜 Yandex Practicum – Professional C++ Developer (Diploma).
 - 📜 1C Training Center – Professional 1C Developer (Diploma).
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
