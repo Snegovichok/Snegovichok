@@ -12,7 +12,7 @@
 ↘️ Completed projects:
 - ⚔️ A server for conducting cybersecurity competitions within CTF Attack-Defense.
 - 🛡️ Secure transmission of information over the Internet. (under development)
-- 🏹 A hunter. (under development)
+- 🏹 Huntress "ZENICA" (the apple of my eye) is a machine learning-based system for automatic detection and multiclass semantic classification of socially dangerous and fraudulent images in Russian-language texts.
 - 👀 A robot with computer vision that can drive and find objects in space.
 - 🖼️ Image generator based on own trained neural network model.
 - 🎭 A neural network that can replace one person's face with another's face without losing the quality of the original photo.
