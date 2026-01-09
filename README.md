@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Daniil
 ↘️ I'm 26 y.o., I:
-- 🔐 Computer Security Specialist | 🖥️ C++/1C/Python Developer | 🤖 AI Researcher (enthusiast) 
+- 🔐 Computer Security Specialist | 🖥️ C++/1C/Python Developer | ⚙️ ML-engineer | 🤖 AI Researcher (enthusiast) 
 
 ↘️ Education & Certifications:
 - 🎓 TSU – Computer Security (Specialization: Security Analysis of Computer Systems).
