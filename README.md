@@ -7,6 +7,7 @@
 - 🎓 MIT – Scientific researcher in the field of machine learning (at the level of the Massachusetts Institute of Technology).
 - 📜 Yandex Practicum – Professional C++ Developer (Diploma).
 - 📜 1C Training Center – Professional 1C Developer (Diploma).
+- 📜 MIPT — graduated with honors from the Correspondence Physics and Technology School at the Moscow Institute of Physics and Technology in Moscow (certificate)
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 ↘️ Completed projects:
